@@ -7,11 +7,11 @@
         }
         else if(email === ""){
             empty.textContent="field cant be empty";
-            empty.style.marginLeft = "40%";
+            empty.style.marginLeft = "30%";
         }
         else{
             empty.textContent="sorry we dont have any message for you thanks";
-            empty.style.marginLeft = "30%";
+            empty.style.marginLeft = "20%";
               }
           
     }
